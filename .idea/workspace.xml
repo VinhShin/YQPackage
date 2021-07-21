@@ -14,16 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4793a256-7d16-426a-a33c-2d3832d8a924" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/common/extension/list_extension.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/common/extension/string_extension.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/common/shared_manager.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/common/utils/convert_utils.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/common/utils/date_utils.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/common/utils/file_utils.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/common/utils/network_utils.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/common/utils/string_utils.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/common/valid_data.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/yq_package.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/common/utils/device_utils.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +44,12 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/common/extension" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lib/common/utils" />
       <recent name="$PROJECT_DIR$/lib/common" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lib/common/extension" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

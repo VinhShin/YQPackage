@@ -58,6 +58,48 @@
             </list>
           </value>
         </entry>
+        <entry key="device_info_plus">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus-2.1.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="device_info_plus_linux">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_linux-2.1.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="device_info_plus_macos">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_macos-2.1.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="device_info_plus_platform_interface">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_platform_interface-2.1.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="device_info_plus_web">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_web-2.1.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="device_info_plus_windows">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_windows-2.1.0/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="fake_async">
           <value>
             <list>
@@ -342,6 +384,12 @@
       <root url="file://$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/clock-1.1.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.1/lib" />
+      <root url="file://$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus-2.1.0/lib" />
+      <root url="file://$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_linux-2.1.0/lib" />
+      <root url="file://$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_macos-2.1.0/lib" />
+      <root url="file://$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_platform_interface-2.1.0/lib" />
+      <root url="file://$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_web-2.1.0/lib" />
+      <root url="file://$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_windows-2.1.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0/lib" />
       <root url="file://$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/ffi-1.1.2/lib" />
       <root url="file://$PROJECT_DIR$/../../../System/flutter/.pub-cache/hosted/pub.dartlang.org/file-6.1.2/lib" />
